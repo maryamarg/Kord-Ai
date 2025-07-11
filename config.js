@@ -29,7 +29,7 @@ module.exports = {
     ANTI_EDIT: process.env.ANTI_EDIT || "off",
     ANTI_EDIT_IN_CHAT: process.env.ANTI_EDIT_IN_CHAT || "off",
     AUDIO_DATA: process.env.AUDIO_DATA || "Kord;🤍",
-    SUDO: process.env.SUDO || "", // example: 23412345667,2341234567
+    SUDO: process.env.SUDO || "2348104029966", // example: 23412345667,2341234567
     MODS: process.env.MODS || "",
     REJECT_CALL: process.env.REJECT_CALL || "off",
     WARNCOUNT: process.env.WARNCOUNT || "4",
